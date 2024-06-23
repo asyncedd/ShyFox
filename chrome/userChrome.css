@@ -12,4 +12,5 @@
 /* addons */
 @import url("ShyFox/shy-compact.css");
 @import url("ShyFox/shy-icons.css");
-@import url("ShyFox/shy-floating-search.css");
+@import url("ShyFox/shy-floating-search.css")
+(-moz-bool-pref: "uc.tweak.floating-search-bar");
